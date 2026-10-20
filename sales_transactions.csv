@@ -1,0 +1,207 @@
+transaction_id,sales_amount,discount_percentage,customer_category,product_category,days_in_inventory,is_anomaly
+TXN-0001,15200000,8,Retail,Electronics,12,0
+TXN-0002,8750000,5,Retail,Office Supplies,10,0
+TXN-0003,22500000,10,VIP,Electronics,15,0
+TXN-0004,18500000,18,Wholesale,Office Supplies,45,0
+TXN-0005,9200000,45,Wholesale,Food & Beverage,92,0
+TXN-0006,12000000,20,VIP,Clothing,30,0
+TXN-0007,3500000,15,Retail,Stationery,7,0
+TXN-0008,45000000,12,VIP,Electronics,20,0
+TXN-0009,6700000,22,Wholesale,Food & Beverage,55,0
+TXN-0010,11000000,35,Wholesale,Furniture,80,0
+TXN-0011,5400000,28,Retail,Clothing,18,0
+TXN-0012,19800000,8,VIP,Electronics,5,0
+TXN-0013,7600000,25,Retail,Office Supplies,25,0
+TXN-0014,33000000,15,VIP,Electronics,10,0
+TXN-0015,4200000,40,Wholesale,Food & Beverage,70,0
+TXN-0016,8900000,12,Retail,Furniture,14,0
+TXN-0017,2100000,30,Retail,Stationery,35,0
+TXN-0018,14500000,20,Wholesale,Office Supplies,40,0
+TXN-0019,27000000,10,VIP,Electronics,8,0
+TXN-0020,6300000,18,Retail,Clothing,22,0
+TXN-0021,9800000,42,Wholesale,Food & Beverage,88,0
+TXN-0022,16400000,25,VIP,Furniture,30,0
+TXN-0023,3800000,15,Retail,Stationery,12,0
+TXN-0024,52000000,8,VIP,Electronics,6,0
+TXN-0025,7200000,30,Wholesale,Office Supplies,50,0
+TXN-0026,4100000,22,Retail,Clothing,16,0
+TXN-0027,11500000,35,Wholesale,Food & Beverage,65,0
+TXN-0028,23000000,12,VIP,Electronics,18,0
+TXN-0029,5900000,20,Retail,Furniture,28,0
+TXN-0030,8300000,15,Wholesale,Office Supplies,38,0
+TXN-0031,2800000,28,Retail,Stationery,20,0
+TXN-0032,17600000,18,VIP,Clothing,25,0
+TXN-0033,6100000,32,Wholesale,Food & Beverage,72,0
+TXN-0034,13200000,10,Retail,Electronics,14,0
+TXN-0035,9400000,38,Wholesale,Furniture,85,0
+TXN-0036,4700000,25,Retail,Clothing,19,0
+TXN-0037,31000000,8,VIP,Electronics,11,0
+TXN-0038,7800000,20,Wholesale,Office Supplies,44,0
+TXN-0039,3200000,15,Retail,Stationery,9,0
+TXN-0040,18900000,22,VIP,Furniture,32,0
+TXN-0041,1250000,75,Retail,Electronics,3,1
+TXN-0042,500000,82,Retail,Clothing,4,1
+TXN-0043,-500000,30,Retail,Furniture,20,1
+TXN-0044,4750000,60,,Clothing,8,1
+TXN-0045,850000,85,Retail,Stationery,2,1
+TXN-0046,0,110,Wholesale,Electronics,5,1
+TXN-0047,31000000,55,VIP,Electronics,12,1
+TXN-0048,2100000,70,Retail,Office Supplies,6,1
+TXN-0049,950000,88,Retail,Clothing,1,1
+TXN-0050,3400000,65,,Food & Beverage,9,1
+TXN-0051,12000000,15,Retail,Electronics,11,0
+TXN-0052,7400000,20,Wholesale,Furniture,42,0
+TXN-0053,9100000,12,Retail,Clothing,17,0
+TXN-0054,21500000,10,VIP,Electronics,13,0
+TXN-0055,4800000,28,Wholesale,Food & Beverage,60,0
+TXN-0056,6200000,18,Retail,Office Supplies,21,0
+TXN-0057,14000000,22,VIP,Furniture,27,0
+TXN-0058,8600000,35,Wholesale,Clothing,75,0
+TXN-0059,3100000,15,Retail,Stationery,8,0
+TXN-0060,19200000,10,VIP,Electronics,16,0
+TXN-0061,5500000,25,Retail,Clothing,23,0
+TXN-0062,11800000,30,Wholesale,Food & Beverage,68,0
+TXN-0063,27500000,12,VIP,Electronics,9,0
+TXN-0064,4300000,20,Retail,Furniture,26,0
+TXN-0065,8100000,18,Wholesale,Office Supplies,37,0
+TXN-0066,3700000,15,Retail,Stationery,13,0
+TXN-0067,22000000,8,VIP,Electronics,7,0
+TXN-0068,6800000,25,Wholesale,Clothing,48,0
+TXN-0069,9700000,40,Wholesale,Food & Beverage,82,0
+TXN-0070,15900000,12,VIP,Furniture,29,0
+TXN-0071,750000,78,Retail,Electronics,2,1
+TXN-0072,1100000,80,Retail,Clothing,3,1
+TXN-0073,-250000,25,Wholesale,Office Supplies,15,1
+TXN-0074,3600000,62,,Electronics,7,1
+TXN-0075,0,95,Retail,Stationery,4,1
+TXN-0076,42000000,58,VIP,Electronics,10,1
+TXN-0077,1800000,72,Retail,Furniture,5,1
+TXN-0078,2500000,68,Retail,Clothing,6,1
+TXN-0079,900000,90,,Food & Beverage,3,1
+TXN-0080,4200000,66,Retail,Office Supplies,8,1
+TXN-0081,13500000,18,Wholesale,Electronics,33,0
+TXN-0082,7100000,22,Retail,Clothing,19,0
+TXN-0083,20000000,10,VIP,Electronics,14,0
+TXN-0084,5700000,28,Wholesale,Food & Beverage,58,0
+TXN-0085,9300000,15,Retail,Office Supplies,11,0
+TXN-0086,16700000,12,VIP,Furniture,24,0
+TXN-0087,18500000,18,Wholesale,Office Supplies,45,0
+TXN-0088,4500000,32,Wholesale,Clothing,78,0
+TXN-0089,3300000,20,Retail,Stationery,16,0
+TXN-0090,24500000,8,VIP,Electronics,10,0
+TXN-0091,6500000,25,Retail,Clothing,21,0
+TXN-0092,10800000,35,Wholesale,Food & Beverage,80,0
+TXN-0093,29000000,10,VIP,Electronics,12,0
+TXN-0094,5100000,22,Retail,Furniture,27,0
+TXN-0095,8400000,18,Wholesale,Office Supplies,39,0
+TXN-0096,3900000,15,Retail,Stationery,10,0
+TXN-0097,23500000,10,VIP,Electronics,8,0
+TXN-0098,7300000,28,Wholesale,Clothing,52,0
+TXN-0099,10200000,38,Wholesale,Food & Beverage,76,0
+TXN-0100,17100000,12,VIP,Furniture,31,0
+TXN-0101,1500000,76,Retail,Electronics,3,1
+TXN-0102,680000,83,Retail,Clothing,2,1
+TXN-0103,-180000,28,Retail,Furniture,18,1
+TXN-0104,2900000,63,,Electronics,6,1
+TXN-0105,0,105,Wholesale,Stationery,4,1
+TXN-0106,38000000,57,VIP,Electronics,11,1
+TXN-0107,1300000,74,Retail,Office Supplies,5,1
+TXN-0108,2200000,69,Retail,Clothing,7,1
+TXN-0109,820000,92,,Food & Beverage,2,1
+TXN-0110,3800000,67,Retail,Office Supplies,9,1
+TXN-0111,14200000,20,Wholesale,Electronics,36,0
+TXN-0112,-500000,30,Retail,Furniture,20,1
+TXN-0113,9500000,15,Retail,Office Supplies,13,0
+TXN-0114,21000000,10,VIP,Electronics,15,0
+TXN-0115,5300000,28,Wholesale,Food & Beverage,62,0
+TXN-0116,6900000,18,Retail,Clothing,20,0
+TXN-0117,15400000,12,VIP,Furniture,26,0
+TXN-0118,8200000,35,Wholesale,Clothing,77,0
+TXN-0119,3600000,20,Retail,Stationery,14,0
+TXN-0120,20500000,8,VIP,Electronics,9,0
+TXN-0121,6100000,25,Retail,Clothing,22,0
+TXN-0122,11200000,30,Wholesale,Food & Beverage,71,0
+TXN-0123,28000000,12,VIP,Electronics,10,0
+TXN-0124,4800000,22,Retail,Furniture,25,0
+TXN-0125,8700000,18,Wholesale,Office Supplies,41,0
+TXN-0126,3400000,15,Retail,Stationery,11,0
+TXN-0127,24000000,10,VIP,Electronics,7,0
+TXN-0128,7000000,25,Wholesale,Clothing,49,0
+TXN-0129,10500000,40,Wholesale,Food & Beverage,83,0
+TXN-0130,16600000,12,VIP,Furniture,30,0
+TXN-0131,1400000,77,Retail,Electronics,2,1
+TXN-0132,720000,84,Retail,Clothing,3,1
+TXN-0133,-320000,26,Wholesale,Furniture,17,1
+TXN-0134,3100000,61,,Electronics,7,1
+TXN-0135,0,108,Retail,Stationery,3,1
+TXN-0136,35000000,56,VIP,Electronics,10,1
+TXN-0137,1600000,73,Retail,Office Supplies,4,1
+TXN-0138,2400000,70,Retail,Clothing,6,1
+TXN-0139,880000,91,,Food & Beverage,2,1
+TXN-0140,4000000,65,Retail,Office Supplies,8,1
+TXN-0141,13800000,18,Wholesale,Electronics,34,0
+TXN-0142,7500000,22,Retail,Clothing,18,0
+TXN-0143,20800000,10,VIP,Electronics,13,0
+TXN-0144,5600000,28,Wholesale,Food & Beverage,59,0
+TXN-0145,9000000,15,Retail,Office Supplies,12,0
+TXN-0146,16900000,12,VIP,Furniture,25,0
+TXN-0147,8500000,35,Wholesale,Clothing,76,0
+TXN-0148,3500000,20,Retail,Stationery,15,0
+TXN-0149,21200000,8,VIP,Electronics,10,0
+TXN-0150,6400000,25,Retail,Clothing,23,0
+TXN-0151,11500000,30,Wholesale,Food & Beverage,69,0
+TXN-0152,29500000,12,VIP,Electronics,11,0
+TXN-0153,5000000,22,Retail,Furniture,26,0
+TXN-0154,8800000,18,Wholesale,Office Supplies,40,0
+TXN-0155,4750000,60,,Clothing,8,1
+TXN-0156,24500000,10,VIP,Electronics,8,0
+TXN-0157,7200000,25,Wholesale,Clothing,50,0
+TXN-0158,10800000,40,Wholesale,Food & Beverage,81,0
+TXN-0159,17200000,12,VIP,Furniture,29,0
+TXN-0160,3700000,15,Retail,Stationery,12,0
+TXN-0161,1600000,79,Retail,Electronics,3,1
+TXN-0162,640000,86,Retail,Clothing,2,1
+TXN-0163,-420000,27,Retail,Furniture,16,1
+TXN-0164,2800000,64,,Electronics,6,1
+TXN-0165,0,112,Wholesale,Stationery,5,1
+TXN-0166,40000000,59,VIP,Electronics,12,1
+TXN-0167,1200000,71,Retail,Office Supplies,4,1
+TXN-0168,2600000,67,Retail,Clothing,5,1
+TXN-0169,860000,93,,Food & Beverage,2,1
+TXN-0170,4100000,64,Retail,Office Supplies,7,1
+TXN-0171,14500000,18,Wholesale,Electronics,35,0
+TXN-0172,7800000,22,Retail,Clothing,20,0
+TXN-0173,22000000,10,VIP,Electronics,14,0
+TXN-0174,5900000,28,Wholesale,Food & Beverage,61,0
+TXN-0175,9600000,15,Retail,Office Supplies,14,0
+TXN-0176,17500000,12,VIP,Furniture,27,0
+TXN-0177,8900000,35,Wholesale,Clothing,78,0
+TXN-0178,3900000,20,Retail,Stationery,16,0
+TXN-0179,22000000,8,VIP,Electronics,11,0
+TXN-0180,6700000,25,Retail,Clothing,24,0
+TXN-0181,12100000,30,Wholesale,Food & Beverage,73,0
+TXN-0182,30500000,12,VIP,Electronics,12,0
+TXN-0183,5200000,22,Retail,Furniture,27,0
+TXN-0184,9100000,18,Wholesale,Office Supplies,42,0
+TXN-0185,4000000,15,Retail,Stationery,13,0
+TXN-0186,25500000,10,VIP,Electronics,9,0
+TXN-0187,7500000,25,Wholesale,Clothing,51,0
+TXN-0188,11100000,40,Wholesale,Food & Beverage,84,0
+TXN-0189,17800000,12,VIP,Furniture,32,0
+TXN-0190,3800000,15,Retail,Stationery,11,0
+TXN-0191,1700000,80,Retail,Electronics,2,1
+TXN-0192,560000,87,Retail,Clothing,1,1
+TXN-0193,-380000,29,Retail,Furniture,19,1
+TXN-0194,3000000,62,,Electronics,7,1
+TXN-0195,0,115,Wholesale,Stationery,4,1
+TXN-0196,43000000,60,VIP,Electronics,13,1
+TXN-0197,1100000,72,Retail,Office Supplies,5,1
+TXN-0198,2700000,68,Retail,Clothing,6,1
+TXN-0199,840000,94,,Food & Beverage,3,1
+TXN-0200,4300000,66,Retail,Office Supplies,9,1
+TXN-0203,22500000,10,VIP,Electronics,15,0
+TXN-0278,850000,85,Retail,Stationery,2,1
+TXN-0334,9200000,45,Wholesale,Food & Beverage,92,0
+TXN-0391,31000000,55,VIP,Electronics,12,1
+TXN-0445,8750000,5,Retail,Office Supplies,10,0
+TXN-0502,0,110,Wholesale,Electronics,5,1
